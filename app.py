@@ -3,7 +3,7 @@
 # print("This is a test file")
 
 def get_user():
-    return "User"
+    return "Current User"
 
 def delete_user():
     return "Deleted"
