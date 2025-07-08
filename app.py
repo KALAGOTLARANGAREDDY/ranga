@@ -6,4 +6,4 @@ def get_user():
     return "User"
 
 def delete_user():
-    return "User Removed"
+    return "User Removed"  # ✅ changed in FEATURE
